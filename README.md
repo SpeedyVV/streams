@@ -1,16 +1,16 @@
 # streams
 
-A new Flutter project.
-
+Tutorial of Stream listener and streamController “talking” asynchronously without plugins
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is "Step 2" starting point for a Flutter application .
 
-A few resources to get you started if this is your first Flutter project:
+As an old timer that has not coded for 30 years, this experience of learning Dart/Flutter has been difficult.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I thought the template project - in Android Studiowas - useless for learning.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+But after 6 months of watching dozens of videos, purchasing online courses, and reading the endless (of what I consider poor, and inconsistant on updates) documentation, I decided to try and build a real project from this template.
+
+"But I'm trying. I'm trying REAL hard, Ringo!"
+
+
